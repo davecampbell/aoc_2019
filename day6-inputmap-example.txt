@@ -1,4 +1,3 @@
-COM)B
 B)C
 C)D
 D)E
@@ -6,6 +5,7 @@ E)F
 B)G
 G)H
 D)I
+COM)B
 E)J
 J)K
 K)L
