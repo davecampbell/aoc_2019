@@ -1,9 +1,9 @@
+G)H
 B)C
 C)D
 D)E
 E)F
 B)G
-G)H
 D)I
 COM)B
 E)J
