@@ -1,0 +1,3 @@
+INFO:root:here we go....
+INFO:root:opcode: 03-INPUT, pmodes: 000, from-input: [0], @ctr+1: 15, ctr in: 0, returning: 2
+INFO:root:opcode: 03-INPUT, pmodes: 000, from-input: [0], @ctr+1: 16, ctr in: 2, returning: 4
