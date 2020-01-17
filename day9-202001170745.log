@@ -1,0 +1,5 @@
+INFO:root:here we go....
+INFO:root:opcode: 03-INPUT, pmodes: 000, from-input: 0, @ctr+1: 15, ctr in: 0, returning: 2
+INFO:root:opcode: 03-INPUT, pmodes: 000, from-input: 0, @ctr+1: 16, ctr in: 2, returning: 4
+INFO:root:opcode: 02-MULTIPLY, pmodes: 010, ctr+1: 16, op1: 0, ctr+2: 10, op2: 10, calcval: 0, ctr+3: 16, ctr in: 4, returning: 8
+INFO:root:opcode: 01-ADD, pmodes: 000, ctr+1: 16, op1: 0, ctr+2: 15, op2: 0, calcval: 0, ctr+3: 15, ctr in: 8, returning: 12
