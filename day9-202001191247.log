@@ -1,0 +1,9 @@
+INFO:root:here we go....
+INFO:root:opcode: 09-ADJUST-RBASE, pmodes: 001, ctr+1: 1, self.rbase: 1, ctr in: 0, returning: 2
+INFO:root:before put - outputs: None
+INFO:root:after put - outputs: 1001
+INFO:root:opcode: 04-OUTPUT, pmodes: 002, @ctr+1: -1, ctr in: 2, returning: 4
+INFO:root:opcode: 01-ADD, pmodes: 010, ctr+1: 100, op1: 100, ctr+2: 1, op2: 1, calcval: 101, ctr+3: 100, ctr in: 4, returning: 8
+INFO:root:opcode: 08-EQUALS-TO, pmodes: 010, ctr+1: 100, op1: 100, ctr+2: 16, op2: 16, calcval: 0, ctr+3: 101, ctr in: 8, returning: 12
+INFO:root:opcode: 06-JUMP-FALSE, pmodes: 010, ctr+1: 101, val_to_test: 101, ctr+2: 0, ctr+3: 99, ctr in: 12, returning: 15
+INFO:root:opcode: 99 - STOP
