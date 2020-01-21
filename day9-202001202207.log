@@ -1,0 +1,7 @@
+INFO:root:here we go....
+INFO:root:opcode: 09-ADJUST-RBASE, pmodes: 001, ctr+1: 1, self.rbase: 1, ctr in: 0, returning: 2
+INFO:root:relative_location() - location: 3, mode: 2, self.rbase: 1
+INFO:root:before put - outputs: None
+INFO:root:after put - outputs: 109
+INFO:root:opcode: 04-OUTPUT, pmodes: 002, @ctr+1: -1, ctr in: 2, returning: 4
+INFO:root:relative_location() - location: 5, mode: 0, self.rbase: 1
